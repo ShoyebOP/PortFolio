@@ -8,7 +8,7 @@ export default function Hero() {
 
   return (
     <>
-      <section className="relative pt-32 pb-20 lg:pt-48 lg:pb-32 overflow-hidden">
+      <section className="relative pt-24 pb-20 lg:pt-32 lg:pb-32 overflow-hidden">
         <div className="max-w-7xl mx-auto px-6">
           <div className="flex flex-col-reverse lg:flex-row items-center gap-12 lg:gap-20">
             <div className="flex-1 text-center lg:text-left">
@@ -27,7 +27,7 @@ export default function Hero() {
                   </span>
                 </h1>
                 <p className="text-lg lg:text-xl text-neutral-600 dark:text-neutral-300 mb-8 max-w-2xl mx-auto lg:mx-0 leading-relaxed">
-                  Building trust through intelligent automation solutions that bridge AI technology with real business needs. Co-founder at Zaktomate.
+                  Building trust through intelligent automation solutions that bridge AI technology with real business needs. Co-founder and COO at Zaktomate.
                 </p>
                 
                 <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4">

@@ -48,7 +48,7 @@ export default function Navbar() {
         isScrolled ? 'bg-neutral-100/80 dark:bg-neutral-950/80 backdrop-blur-md shadow-sm' : 'bg-transparent'
       }`}
     >
-      <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
+      <div className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
         <a href="#" className="font-display font-bold text-xl tracking-tight text-neutral-900 dark:text-white">
           SM<span className="text-neutral-500 dark:text-neutral-400">.</span>
         </a>
@@ -97,7 +97,7 @@ export default function Navbar() {
             initial={{ opacity: 0, y: -10 }}
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -10 }}
-            className="md:hidden absolute top-20 left-0 right-0 bg-neutral-100 dark:bg-neutral-900 shadow-lg border-t border-neutral-200 dark:border-neutral-800"
+            className="md:hidden absolute top-16 left-0 right-0 bg-neutral-100 dark:bg-neutral-900 shadow-lg border-t border-neutral-200 dark:border-neutral-800"
           >
             <div className="flex flex-col p-4">
               {navLinks.map((link) => (
