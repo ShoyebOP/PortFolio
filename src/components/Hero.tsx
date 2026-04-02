@@ -79,7 +79,7 @@ export default function Hero() {
               >
                 <div className="absolute inset-0 bg-gradient-to-tr from-neutral-800 to-neutral-400 dark:from-neutral-200 dark:to-neutral-600 rounded-full blur-3xl opacity-20 dark:opacity-30 animate-pulse group-hover:opacity-40 transition-opacity"></div>
                 <img
-                  src="/myimage.png"
+                  src="/myimage.jpg"
                   alt="Shoyeb Morshed"
                   className="relative z-10 w-full h-full object-cover object-[center_15%] rounded-full border-4 border-white dark:border-neutral-800 shadow-2xl transition-transform duration-300 group-hover:scale-[1.02]"
                 />
@@ -114,7 +114,7 @@ export default function Hero() {
               animate={{ scale: 1, opacity: 1 }}
               exit={{ scale: 0.95, opacity: 0 }}
               transition={{ type: "spring", damping: 25, stiffness: 300 }}
-              src="/myimage.png"
+              src="/myimage.jpg"
               alt="Shoyeb Morshed Fullscreen"
               className="max-w-full max-h-full object-contain rounded-lg shadow-2xl"
               onClick={(e) => e.stopPropagation()}
