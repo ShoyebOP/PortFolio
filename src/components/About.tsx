@@ -16,7 +16,7 @@ export default function About() {
             className="prose prose-lg dark:prose-invert text-neutral-600 dark:text-neutral-300"
           >
             <p className="mb-4">
-              I'm an AI Automation Expert and Co-founder and COO at <strong><a href="https://www.zaktomate.com" target="_blank" rel="noopener noreferrer" className="hover:underline text-neutral-900 dark:text-white">Zaktomate</a></strong>, an AI automation agency helping businesses and individuals automate parts or entire workflows. My focus is on architecting end-to-end automation systems that deliver measurable efficiency gains.
+              I'm an AI Automation Expert and Co-founder and COO at <strong><a href="https://www.zaktomate.com" target="_blank" rel="noopener noreferrer" title="Zaktomate - AI Automation Agency" className="hover:underline text-neutral-900 dark:text-white">Zaktomate</a></strong>, an AI automation agency helping businesses and individuals automate parts or entire workflows. My focus is on architecting end-to-end automation systems that deliver measurable efficiency gains.
             </p>
             <p>
               I specialize in bridging the gap between cutting-edge AI capabilities and practical business applications, ensuring that technology serves a clear, valuable purpose.

@@ -18,7 +18,7 @@ export default function Experience() {
             <div className="relative pl-8 border-l-2 border-neutral-200 dark:border-neutral-700 pb-8">
               <div className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-neutral-800 dark:bg-neutral-200 ring-4 ring-neutral-100 dark:ring-neutral-950"></div>
               <h3 className="font-display text-2xl font-bold text-neutral-900 dark:text-white">Co-founder, COO & AI Automation Expert</h3>
-              <p className="text-lg text-neutral-600 dark:text-neutral-400 font-medium mt-1 mb-4"><a href="https://www.zaktomate.com" target="_blank" rel="noopener noreferrer" className="hover:underline text-neutral-900 dark:text-white">Zaktomate</a> — AI Automation Agency</p>
+              <p className="text-lg text-neutral-600 dark:text-neutral-400 font-medium mt-1 mb-4"><a href="https://www.zaktomate.com" target="_blank" rel="noopener noreferrer" title="Zaktomate - AI Automation Agency" className="hover:underline text-neutral-900 dark:text-white">Zaktomate</a> — AI Automation Agency</p>
               
               <ul className="space-y-4 text-neutral-600 dark:text-neutral-300">
                 <li className="flex items-start gap-3">
