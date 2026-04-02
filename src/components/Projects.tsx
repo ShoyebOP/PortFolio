@@ -40,9 +40,9 @@ const projects = [
   },
   {
     title: "Zakbot",
-    role: "Co-Founder and COO's Project | Production System",
+    role: "Co-Founder's Project | Production System",
     description: "Production-level customer support chatbot. Architected to handle complex customer queries with high accuracy.",
-    detailedDescription: "As a Co-Founder and COO, I spearheaded the development of this production-level customer support chatbot. It is architected to handle complex, multi-turn customer queries with high accuracy and reliability. Working on Zakbot was a massive learning experience—it pushed me to master advanced prompt engineering, context window management, and the deployment of scalable, fault-tolerant AI systems in a live production environment. I also want to acknowledge how wonderful my co-founder is; seeing this project inspired me to learn JavaScript, and it showed me the incredible potential of what I could build and learn in the JS ecosystem.",
+    detailedDescription: "I had the privilege of watching this production-level customer support chatbot get built from scratch by my wonderful co-founder. Seeing the architecture handle complex, multi-turn customer queries with high accuracy and reliability was a massive learning experience. It inspired me to learn JavaScript and showed me the incredible potential of what can be built in the JS ecosystem.",
     tags: ["AI", "Chatbot", "Customer Support", "System Design"],
     private: false
   }

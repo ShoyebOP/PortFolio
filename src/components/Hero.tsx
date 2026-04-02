@@ -27,7 +27,7 @@ export default function Hero() {
                   </span>
                 </h1>
                 <p className="text-lg lg:text-xl text-neutral-600 dark:text-neutral-300 mb-8 max-w-2xl mx-auto lg:mx-0 leading-relaxed">
-                  Building trust through intelligent automation solutions that bridge AI technology with real business needs. Co-founder and COO at Zaktomate.
+                  Building trust through intelligent automation solutions that bridge AI technology with real business needs. Co-founder and COO at <a href="https://www.zaktomate.com" target="_blank" rel="noopener noreferrer" className="underline hover:text-neutral-900 dark:hover:text-white transition-colors">Zaktomate</a>.
                 </p>
                 
                 <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4">
